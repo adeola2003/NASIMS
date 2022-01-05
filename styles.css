@@ -15,14 +15,19 @@
     }
 }
 @media (max-width: 767px) {
-    body {
+body {
         text-align: center;
     }
 }
 @media (max-width: 767px) {
-    .card {
+.card {
         justify-content: center;
     }
+/* 
+ @media (max-width: 767px) {
+     .card {
+            justify-content: center;
+        } */
 }
 #inp {
     width: 400px;
