@@ -6,7 +6,7 @@
 @media (min-width:992px) {
     .nav-link {
         float: left;
-        display: block;
+        /* display: block; */
         border-bottom: 4px solid green;
     }
 }
