@@ -3,7 +3,13 @@
         border-bottom: 4px solid green;
     }
 }
-
+@media (min-width:992px) {
+    .nav-link {
+        float: left;
+        display: block;
+        border-bottom: 4px solid green;
+    }
+}
 @media (max-width: 767px) {
     #nbb {
         visibility: hidden;
