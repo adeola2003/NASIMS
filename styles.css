@@ -23,11 +23,13 @@ body {
 .card {
         justify-content: center;
     }
-/* 
- @media (max-width: 767px) {
-     .card {
-            justify-content: center;
-        } */
+
+    @media (max-width: 575px){
+        .body {
+            overflow-x: hidden;
+        }
+    }
+    
 }
 #inp {
     width: 400px;
