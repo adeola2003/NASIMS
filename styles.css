@@ -25,13 +25,27 @@ body {
         justify-content: center;
     }
 
-    @media (max-width: 575px){
-        .body {
+@media (max-width: 575px){
+.body {
             overflow-x: hidden;
         }
     }
     
 }
+
+@media (max-width:767px){
+    #fc{
+        background:linear-gradient(rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0.75)), url(./Photos/image3.jpg);
+        color: #fff;
+    }
+    #sc{
+        background: linear-gradient(rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0.75)), url(./Photos/image2.jpg);
+        color: #fff;
+    }
+    #tc {
+        background: linear-gradient(rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0.75)), url(./Photos/hero3.jpg);
+        color: #fff;
+    }  
 #inp {
     width: 400px;
     height: 50px;
