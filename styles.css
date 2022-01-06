@@ -38,19 +38,19 @@ body {
         background:linear-gradient(rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0.75)), url(./nasims\ images/image3.jpg);
         color: #fff;
         text-align: center;
-        padding-bottom: hidden;
+        padding-bottom:0%;
     }
     #sc{
         background: linear-gradient(rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0.75)), url(./nasims\ images/image2.jpg);
         color: #fff;
         text-align: center;
-        padding-bottom: hidden;
+        padding-bottom: 0%;
     }
     #tc {
         background: linear-gradient(rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0.75)), url(./nasims\ images/hero3.jpg);
         color: #fff;
         text-align: center;
-        padding-bottom: hidden;
+        padding-bottom: 0%;
     }  
 
     @media (max-width:991px) {
