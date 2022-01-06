@@ -33,7 +33,7 @@ body {
     
 }
 
-@media (max-width:768px){
+@media (max-width:960px){
     #fc{
         background:linear-gradient(rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0.75)), url(./nasims\ images/image3.jpg);
         color: #fff;
