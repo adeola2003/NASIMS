@@ -67,7 +67,10 @@ html,body {
     @media (max-width:991px) {
         #ni {
             visibility: hidden;
-           display: inline;
+           margin-bottom: 0px;
+           display: none;
+           
+        
         }
     }
 }
