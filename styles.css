@@ -38,9 +38,9 @@ html,body {
     }
     
 }
-@media (max-width:992px) {
+@media (min-width:993px) {
     #secondcarousel {
-        visibility: visible;
+        visibility: hidden;
     }
 }
 @media (max-width :992px) {
