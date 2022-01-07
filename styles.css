@@ -15,9 +15,11 @@
         visibility: visible;
     }
 }
-@media (max-width: 767px) {
-body {
+@media (max-width: 991px) {
+body,html {
         text-align: center;
+        justify-content: center;
+        align-items: center;
     }
 }
 @media (max-width: 767px) {
@@ -25,6 +27,8 @@ body {
         justify-content: center;
         align-items: center;
     }
+
+    
 
 @media (max-width: 575px){
 html,body {
