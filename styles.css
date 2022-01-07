@@ -15,11 +15,10 @@
         visibility: visible;
     }
 }
-@media (max-width: 991px) {
+@media (max-width: 768px) {
 body,html {
         text-align: center;
-        justify-content: center;
-        align-items: center;
+       
     }
 }
 @media (max-width: 767px) {
