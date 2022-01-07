@@ -55,7 +55,7 @@ body {
 
     @media (max-width:991px) {
         #ni {
-            visibility: hidden;
+            visibility: inherit;
         }
     }
 }
