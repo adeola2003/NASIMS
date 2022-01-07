@@ -67,8 +67,7 @@ html,body {
     @media (max-width:991px) {
         #ni {
             visibility: hidden;
-            resize: horizontal;
-            resize: vertical;
+           resize: vertical;
         }
     }
 }
