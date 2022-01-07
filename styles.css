@@ -34,9 +34,12 @@
 html,body {
             overflow-x: hidden;
             position: relative;
+            text-align: center;
+            justify-content: center;
         }
     }
-    
+
+
 }
 @media (min-width:993px) {
     #secondcarousel {
@@ -134,29 +137,21 @@ body {
       text-align: center;
   }
 
-  #bm {
+#bm {
       object-fit: cover;
   }
-  @media (min-width:992px) {
-    #pink {
+  
+@media (min-width:992px) {
+#pink {
         background-color: #f9ecdc55;
     }  
-    #gr {
+#gr {
         background-color: #f2fcf98e;
     }
-    #pn {
+#pn {
         background-color:#f9ecdc55 ;
     }
     
     
   }
-/* #pink {
-    background-color: #f9ecdc55;
-}  
-#gr {
-    background-color: #f2fcf98e;
-}
-#pn {
-    background-color:#f9ecdc55 ;
-}
- */
+
