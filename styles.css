@@ -23,11 +23,13 @@ body {
 @media (max-width: 767px) {
 .card {
         justify-content: center;
+        align-items: center;
     }
 
 @media (max-width: 575px){
 .body {
             overflow-x: hidden;
+            position: fixed;
         }
     }
     
@@ -38,24 +40,25 @@ body {
         background:linear-gradient(rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0.75)), url(./nasims\ images/image3.jpg);
         color: #fff;
         text-align: center;
-        padding-bottom:0%;
+        display: block;
+    
     }
     #sc{
         background: linear-gradient(rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0.75)), url(./nasims\ images/image2.jpg);
         color: #fff;
         text-align: center;
-        padding-bottom: 0%;
+        
     }
     #tc {
         background: linear-gradient(rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0.75)), url(./nasims\ images/hero3.jpg);
         color: #fff;
         text-align: center;
-        padding-bottom: 0%;
+        
     }  
 
     @media (max-width:991px) {
         #ni {
-            visibility: inherit;
+            visibility: hidden;
         }
     }
 }
