@@ -27,9 +27,9 @@ body {
     }
 
 @media (max-width: 575px){
-.body {
+html,body {
             overflow-x: hidden;
-            position: fixed;
+            position: relative;
         }
     }
     
