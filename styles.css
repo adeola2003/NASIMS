@@ -60,9 +60,6 @@ body {
     }
 }
 @media (max-width:991px) {
-    #pink {visibility: hidden;}
-    #gr {visibility: hidden;}
-    #pn{visibility: hidden;}
 }
 #inp {
     width: 400px;
