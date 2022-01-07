@@ -44,6 +44,7 @@ html,body {
         color: #fff;
         text-align: center;
         display: block;
+        background-repeat: no-repeat;
     
     }
     #sc{
