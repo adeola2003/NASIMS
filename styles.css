@@ -4,10 +4,13 @@
     }
 }
 
-
+#nbb {
+    font-size: 5px;
+}
 @media (max-width: 767px) {
     #nbb {
         visibility: hidden;
+        font-size: 5px;
     }
 }
 @media (max-width: 576px) {
