@@ -6,7 +6,7 @@
 
 .newnav {
     font-size: 14px;
-    font-weight: bold;
+    font-weight: 500px;
 }
 @media (max-width: 767px) {
     #nbb {
