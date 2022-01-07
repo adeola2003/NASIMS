@@ -38,6 +38,17 @@ html,body {
     }
     
 }
+@media (max-width:992px) {
+    #secondcarousel {
+        visibility: visible;
+    }
+}
+@media (max-width :992px) {
+    #realone {
+        visibility: hidden;
+    }
+}
+
 
 @media (max-width:991px){
 #fc{
