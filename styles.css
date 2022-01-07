@@ -80,6 +80,12 @@ html,body {
         align-items: center;
     }
 }
+@media (max-width:575px){
+    body,html {
+        justify-content: center;
+        align-items: center;
+    }
+}
 
 #bn {
     width: 400px;
