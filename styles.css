@@ -21,14 +21,8 @@
        
     }
 }
-@media (max-width: 767px) {
-.card {
-        justify-content: center;
-        align-items: center;
-        vertical-align: middle;
-    }
 
-    
+
 
 @media (max-width: 575px){
 html,body {
@@ -39,8 +33,6 @@ html,body {
         }
     }
 
-
-}
 @media (min-width:993px) {
     #secondcarousel {
         visibility: hidden;
