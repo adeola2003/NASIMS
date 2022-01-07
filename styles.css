@@ -16,7 +16,7 @@
     }
 }
 @media (max-width: 768px) {
-body,html {
+.body {
         text-align: center;
        
     }
