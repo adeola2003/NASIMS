@@ -44,6 +44,8 @@ html,body {
         background:linear-gradient(rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0.75)), url(./nasims\ images/image3.jpg);
         color: #fff;
         text-align: center;
+        background-repeat: no-repeat;
+        box-sizing: inherit;
         
         
     
