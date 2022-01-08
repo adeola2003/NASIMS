@@ -107,6 +107,7 @@ html,body {
     #buhari {
         justify-content: center;
         align-items: center;
+        
     
     }
 }
@@ -118,12 +119,12 @@ html,body {
 }
 
 
+    
 #bn {
     width: 400px;
     height: 50px;
     opacity: .65;
 }
-
 
 body {
     overflow-x: hidden;
