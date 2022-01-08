@@ -14,6 +14,13 @@
         font-size: 5px;
     }
 }
+@media (min-width:768px) {
+    #nbb {
+        visibility: visible;
+        font-size: 15px;
+    }
+}
+
 @media (max-width: 576px) {
     .navbar-collapse {
         visibility: visible;
