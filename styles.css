@@ -72,19 +72,13 @@ html,body {
         background:linear-gradient(rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0.75)), url(./nasims\ images/image3.jpg);
         color: #fff;
         text-align: center;
-        justify-content: center;
-        align-items: center;
-        
-        
-        
-    
+        background-position: center;
     }
 #sc{
         background: linear-gradient(rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0.75)), url(./nasims\ images/image2.jpg);
         color: #fff;
         text-align: center;
-        justify-content: center;
-        align-items: center;
+        background-position: center;
         
         
     }
@@ -92,8 +86,7 @@ html,body {
         background: linear-gradient(rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0.75)), url(./nasims\ images/hero3.jpg);
         color: #fff;
         text-align: center;
-        justify-content: center;
-        align-items: center;
+        background-position: center;
         
         
     }  
