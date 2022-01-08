@@ -15,9 +15,9 @@
     }
 }
 @media (min-width:768px) {
-    #nbb {
+    .newnav {
         visibility: visible;
-        font-size: 15px;
+        font-size: 17px;
     }
 }
 
